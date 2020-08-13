@@ -1,6 +1,4 @@
-# Problem CW 5-10 RID Datum Transformation(Shift parameter)
-# CR 31 Mr.Isara  Chaowuttisuk
-print('Problem CW 5-10 RID Datum Transformation(Shift parameter) by CR 31 Mr.Isara Chaowuttisuk' + '\n')
+# Problem : RID Datum Transformation( Shift parameter )
 
 from math import sin, cos, atan2, sqrt, radians, degrees, pow 
 import numpy as np
