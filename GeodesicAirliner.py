@@ -1,9 +1,8 @@
-# Problem CW 5-6 Inverse Geodesic using GeographicLib
-# CR 31 Mr.Isara  Chaowuttisuk
-print('Problem CW 5-6 Inverse Geodesic using GeographicLib by CR 31 Mr.Isara Chaowuttisuk')
+# Problem : Inverse Geodesic using GeographicLib
 
 from geographiclib.geodesic import Geodesic
 geod = Geodesic.WGS84 # กำหนดให้เป็นแบบจำลอง WGS84
+
 
 def Geodesic_Inverse( lat1, lng1, lat2, lng2 ):  # สร้างฟังก์ชันเพื่อหา Geodesic ด้วยวิธิ Inverse
     result = geod.Inverse(lat1, lng1, lat2, lng2)
