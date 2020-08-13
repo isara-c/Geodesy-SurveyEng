@@ -1,6 +1,5 @@
-# CR : 31(B) Mr.Isara Chaowuttisuk
-# Problem CW 5-9 Vertex of Geodesic
-print('******** Problem CW 5-9 by CR:31(B) Mr.Isara Chaowuttisuk ********' +'\n')
+# Problem : Vertex of Geodesic
+
 
 from math import radians, degrees, sin, cos, pi, sqrt, acos
 # นำเข้าโมดูล math เพื่อใช้ฟังก์ชันตรีโกณ
