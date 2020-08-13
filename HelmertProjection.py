@@ -1,6 +1,5 @@
-# CR : 31(B) Mr.Isara Chaowuttisuk
-# Problem CW 3-10 Helmert Projection
-print('******** Problem CW 3-10 by CR:31(B) Mr.Isara Chaowuttisuk ********' +'\n')
+# Problem : Helmert Projection
+
 
 import math as m
 
