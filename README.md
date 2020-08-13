@@ -7,10 +7,10 @@ Script python about geodesy problem about
 - Undulation TGM2017 and EGM2008
 - Vertex Of Geodesic
 
-## Package
+## Include Package (some scripts)
 
 ```
 Geographiclib
-GeoidEval ( in some script ) 
+GeoidEval
 ```
 
