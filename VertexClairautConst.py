@@ -1,6 +1,4 @@
-# CR : 31(B) Mr.Isara Chaowuttisuk
-# Problem CW 5-8 Vertex / Clairaut Conts
-print('******** Problem CW 5-8 by CR:31(B) Mr.Isara Chaowuttisuk ********' + '\n')
+# Problem : Vertex / Clairaut Conts
 
 from math import radians, degrees, sin, cos, pi, sqrt, acos, asin # นำเข้า module math เพื่อใช้ตรีโกณ
 from geographiclib.geodesic import Geodesic # นำเข้าเพื่อใช้หาค่าพิกัดทางภูมิศาสตร์
