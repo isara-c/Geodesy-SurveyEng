@@ -1,6 +1,4 @@
-# CR : 31 Mr.Isara Chaowuttisuk
-# Problem CW 5-3 Undulation EGM2008 and TGM2017
-print('****** Problem CW 5-3 by CR:31 Mr.Isara Chaowuttisuk ******' +'\n')
+# Problem : Undulation EGM2008 and TGM2017
 
 import subprocess
 
