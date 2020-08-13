@@ -1,6 +1,4 @@
-# CR : 31(B) Mr.Isara Chaowuttisuk
-# Problem CW 3-9 Navigation Route on Great Circle ( Sphere )
-print('******** Problem CW 3-9 by CR:31(B) Mr.Isara Chaowuttisuk ********' +'\n')
+# Problem : Navigation Route on Great Circle ( Sphere )
 
 import math as m        # นำเข้าฟังก์ชัน math เพื่อคำนวณมุมตรีโกณ
 import numpy as np      # นำเข้า numpy เพื่อใช้คำนวณ arc
